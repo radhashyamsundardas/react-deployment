@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/radhashyamsundardas/react-deployment/static/css/main.073c9b0a.css",
+    "main.js": "/radhashyamsundardas/react-deployment/static/js/main.6e8f5e70.js",
+    "static/js/787.ed169faa.chunk.js": "/radhashyamsundardas/react-deployment/static/js/787.ed169faa.chunk.js",
+    "static/media/logo.svg": "/radhashyamsundardas/react-deployment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/radhashyamsundardas/react-deployment/index.html",
+    "main.073c9b0a.css.map": "/radhashyamsundardas/react-deployment/static/css/main.073c9b0a.css.map",
+    "main.6e8f5e70.js.map": "/radhashyamsundardas/react-deployment/static/js/main.6e8f5e70.js.map",
+    "787.ed169faa.chunk.js.map": "/radhashyamsundardas/react-deployment/static/js/787.ed169faa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6e8f5e70.js"
+  ]
+}
